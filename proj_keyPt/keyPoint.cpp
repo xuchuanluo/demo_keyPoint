@@ -161,7 +161,7 @@ bool matchingDescriptor(const vector<KeyPoint>& queryKeyPoints,const vector<KeyP
 
 
 
-
+//add some bug4-master
 int main()
 {
 	//string filename = "D:\\Img\\Heads\\03.jpg";
