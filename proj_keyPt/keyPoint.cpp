@@ -228,5 +228,7 @@ int main()
 		key = waitKey(1);
 
 	}
+	//add some bug1
+	//add some bug2
 
 }
